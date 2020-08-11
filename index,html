@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- IE内核 强制使用最新的引擎渲染网页 -->
+<meta name="renderer" content="webkit">  <!-- 启用360浏览器的极速模式(webkit) -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0 ,maximum-scale=1.0, user-scalable=no"><!-- 手机H5兼容模式 -->
+<meta name="x5-fullscreen" content="true" >
+<meta name="x5-page-mode" content="app" > <!-- X5  全屏处理 -->
+<meta name="full-screen" content="yes">
+<meta name="browsermode" content="application">  <!-- UC 全屏应用模式 -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" /> <!--  苹果全屏应用模式 -->
+<link rel="icon" href="data:image/ico;base64,aWNv">  
+<title>Web Player</title>
+<style type="text/css">body,html,div{background-color:#000;padding: 0;margin: 0;width:100%;height:100%;color:#aaa;}</style>
+<body style="margin:0;background-color:black;overflow-y: hidden">
+<div id="player"></div>
+<script>
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('T m(a){5 b=V 1g("(^|&)"+a+"=([^&]*)(&|$)","i");5 r=18.H.1j.O(1).n(b);7(r!=k)x(r[2]);x k}5 3=m(\'d\')?m(\'d\'):\'/U.q\';5 w=\'h:\'==o.H.1k?g:e;7(w){5 3=3.P(\'R://\',\'h://\')}5 S=f.j.n(/y|W|16|v|1f/i)!=k;7(3.4(\'.1h\')>-1||3.4(\'.1i\')>-1){5 c=\'./J/1l.q?d=\'+3;7((f.j.4(\'1s\')>=0)||(f.j.4(\'N\')>=0)){5 c=\'./J/M.q?d=\'+3}}l 7(3.4(\'.Q.9\')>-1){5 c=\'h://z.A.B/C.D?d=\'+3}l 7(3.4(\'.X.9\')>-1||3.4(\'.Y.9\')>-1||3.4(\'.Z.9\')>-1||3.4(\'.10.9\')>-1||3.4(\'.11.9\')>-1||3.4(\'.12.9\')>-1){5 c=\'h://z.A.B/C.D?d=\'+3}l{5 c=3}o.13(\'14\').15=\'<E 17="F%" 19="F%" 1a="g" 1b="g" 1c="0" 1d="1e" G="\'+c+\'"></E>\';5 6={s:e,t:e,I:e,u:e};5 p=f.1m;6.s=p.4("1n")==0;6.t=p.4("1o")==0;6.1p=(p=="1q")||(p.4("v")==0);6.u=(f.j.n(/y/i)!=k)?g:e;7(6.s||6.t||6.I||6.u){}l{o.1r("<L 1t=\\\'1u/1v\\\' 1w=\\\'1x-8\\\' G=\\\'/K/1y.K\\\'><\\/L>")}',62,97,'|||urls|indexOf|var|system|if||com|||playurl|url|false|navigator|true|https||userAgent|null|else|GetQueryString|match|document||html||win|mac|ipad|Linux|ishttps|return|iPad|jx|yingxiangbao|cn|vip|php|iframe|100|src|location|xll|api|js|script|ckplayer|Trident|substr|replace|qq|http|isiPad|function|welcome|new|iPhone|iqiyi|youku|mgtv|sohu|le|pptv|getElementById|player|innerHTML|Android|width|window|height|allowTransparency|allowfullscreen|frameborder|scrolling|no|iPod|RegExp|m3u8|mp4|search|protocol|dplayer|platform|Win|Mac|x11|X11|writeln|MSIE|type|text|javascript|charset|utf|min'.split('|'),0,{}))
+</script>
+<div style="display:none;">
+<script type="text/javascript" src="https://s23.cnzz.com/z_stat.php?id=1277694429&web_id=1277694429"></script>
+</div>
+</body>
+</html>
